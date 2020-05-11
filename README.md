@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Data analysis and comparative study of various machine learning models in predicting diabetes.
+Data analysis and comparative study of various machine learning models in diabetes prediction.
